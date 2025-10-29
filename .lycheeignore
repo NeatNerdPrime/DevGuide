@@ -34,3 +34,16 @@ owaspsamm.thinkific.com/courses/samm
 
 # the BLT site blocks bots
 owaspblt.org
+
+# mainstream sites that are not worth checking
+www.exploit-db.com/
+www.w3.org/
+www.w3schools.com/
+www.cybok.org
+www.first.org
+www.opencre.org
+www.nist.gov
+www.oreilly.com
+www.cve.org
+www.kali.org
+www.iso.org
