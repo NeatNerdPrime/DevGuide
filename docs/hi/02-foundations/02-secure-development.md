@@ -170,7 +170,7 @@ The OWASP Developer Guide is a community effort; if there is something that need
 then [submit an issue][issue0402] or [edit on GitHub][edit0402].
 
 [amass]: https://owasp.org/www-project-amass/
-[apisec]: https://owasp.org/API-Security
+[apisec]: https://owasp.org/API-Security/
 [asvs]: https://owasp.org/www-project-application-security-verification-standard/
 [champions]: https://owasp.org/www-project-security-champions-guidebook/
 [cscicd]: https://cheatsheetseries.owasp.org/cheatsheets/CI_CD_Security_Cheat_Sheet
@@ -185,7 +185,7 @@ then [submit an issue][issue0402] or [edit on GitHub][edit0402].
 [depcheck]: https://owasp.org/www-project-dependency-check/
 [deptrack]: https://dependencytrack.org/
 [devsecops]: https://owasp.org/www-project-devsecops-guideline/
-[defectdojo]: https://www.defectdojo.org/
+[defectdojo]: https://defectdojo.com/community
 [edit0402]: https://github.com/OWASP/DevGuide/blob/main/docs/en/02-foundations/02-secure-development.md
 [esapi-project]: https://owasp.org/www-project-enterprise-security-api/
 [github]: https://github.com/
@@ -197,7 +197,7 @@ then [submit an issue][issue0402] or [edit on GitHub][edit0402].
 [mobile10]: https://owasp.org/www-project-mobile-top-10/
 [net]: https://owasp.org/www-project-nettacker/
 [owtf]: https://owasp.org/www-project-owtf/
-[proactive10]: https://owasp.org/www-project-proactive-controls/
+[proactive10]: https://top10proactive.owasp.org/
 [pulse]: https://owasp.org/www-project-code-pulse/
 [pytm]: https://owasp.org/www-project-pytm/
 [samm]: https://owaspsamm.org/about/

@@ -91,7 +91,7 @@ then [submit an issue][issue130101] or [edit on GitHub][edit130101].
 [sammisd]: https://owaspsamm.org/model/implementation/secure-deployment/
 [sammo]: https://owaspsamm.org/model/operations/
 [sammoem]: https://owaspsamm.org/model/operations/environment-management/
-[sammoim]: https://owaspsamm.org/model/operations/incident-management
+[sammoim]: https://owaspsamm.org/model/operations/incident-management/
 [sammoom]: https://owaspsamm.org/model/operations/operational-management/
 [sammv]: https://owaspsamm.org/model/verification/
 [sammvaa]: https://owaspsamm.org/model/verification/architecture-assessment/

@@ -23,5 +23,5 @@ The OWASP Developer Guide is a community effort; if there is something that need
 [samm]: https://owaspsamm.org/about/
 [sammo]: https://owaspsamm.org/model/operations/
 [sammoem]: https://owaspsamm.org/model/operations/environment-management/
-[sammoim]: https://owaspsamm.org/model/operations/incident-management
+[sammoim]: https://owaspsamm.org/model/operations/incident-management/
 [sammoom]: https://owaspsamm.org/model/operations/operational-management/

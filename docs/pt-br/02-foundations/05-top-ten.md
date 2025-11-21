@@ -160,8 +160,8 @@ Existem vários projetos 'Top 10' criados pelo OWASP que, dependendo do contexto
 também podem ser referidos como 'OWASP Top 10'. Aqui está uma lista dos projetos 'OWASP Top 10' estáveis:
 
 * [API Security Top 10][apisec]
+* [Citizen Development Top 10][cd10]
 * [Data Security Top 10][data10]
-* [Low-Code/No-Code Top 10][lcnc10]
 * [Mobile Top 10][mobile10]
 * [Serverless Top 10][serverless10]
 * [Top 10 CI/CD Security Risks][cicd10]
@@ -197,6 +197,7 @@ então [submeta uma issue][issue0405] ou [edite no GitHub][edit0405].
 [a10]: https://owasp.org/Top10/A10_2021-Server-Side_Request_Forgery_%28SSRF%29/
 [a10cs]: https://cheatsheetseries.owasp.org/IndexTopTen.html#a102021-server-side-request-forgery-ssrf
 [apisec]: https://owasp.org/API-Security/
+[cd10]: https://owasp.org/www-project-citizen-development-top10-security-risks/
 [cicd10]: https://owasp.org/www-project-top-10-ci-cd-security-risks/
 [cschain]: https://cheatsheetseries.owasp.org/cheatsheets/Software_Supply_Chain_Security_Cheat_Sheet
 [cscloud]: https://cheatsheetseries.owasp.org/cheatsheets/Secure_Cloud_Architecture_Cheat_Sheet
@@ -206,10 +207,9 @@ então [submeta uma issue][issue0405] ou [edite no GitHub][edit0405].
 [edit0405]: https://github.com/OWASP/DevGuide/blob/main/docs/pt-br/02-foundations/05-top-ten.md
 [exploit]: https://www.exploit-db.com/
 [issue0405]: https://github.com/OWASP/DevGuide/issues/new?labels=enhancement&template=request.md&title=Update:%2002-foundations/05-top-ten
-[lcnc10]: https://owasp.org/www-project-top-10-low-code-no-code-security-risks/
 [mobile10]: https://owasp.org/www-project-mobile-top-10/
 [privacy10]: https://owasp.org/www-project-top-10-privacy-risks/
-[proactive10]: https://owasp.org/www-project-proactive-controls/
+[proactive10]: https://top10proactive.owasp.org/
 [samm]: https://owaspsamm.org/about/
 [serverless10]: https://owasp.org/www-project-serverless-top-10/
 [top10project]: https://owasp.org/www-project-top-ten/

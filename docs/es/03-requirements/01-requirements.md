@@ -111,6 +111,6 @@ entonces [cree un issue][issue0501] o [edítelo en GitHub][edit0501].
 [en0501]: https://devguide.owasp.org/en/03-requirements/01-requirements/
 [issue0501]: https://github.com/OWASP/DevGuide/issues/new?labels=enhancement&template=request.md&title=Update:%2003-requirements/01-requirements
 [mas]: https://mas.owasp.org/
-[proactive10]: https://owasp.org/www-project-proactive-controls/
+[proactive10]: https://top10proactive.owasp.org/
 [samm]: https://owaspsamm.org/about/
 [sammdsr]: https://owaspsamm.org/model/design/security-requirements/

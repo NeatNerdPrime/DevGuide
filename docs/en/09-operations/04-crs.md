@@ -48,5 +48,5 @@ then [submit an issue][issue1104] or [edit on GitHub][edit1104].
 [crs-download]: https://coreruleset.org/docs/deployment/install/
 [crs-project]: https://owasp.org/www-project-modsecurity-core-rule-set/
 [modsec]: https://owasp.org/www-project-modsecurity/
-[modsec-docs]: https://www.modsecurity.org/
+[modsec-docs]: https://modsecurity.org/
 [spotlight03]: https://youtu.be/88ZMKpiZbRI

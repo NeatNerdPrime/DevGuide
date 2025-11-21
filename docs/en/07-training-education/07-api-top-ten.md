@@ -45,7 +45,7 @@ then [submit an issue][issue0907] or [edit on GitHub][edit0907].
 [api08]: https://owasp.org/API-Security/editions/2023/en/0xa8-security-misconfiguration/
 [api09]: https://owasp.org/API-Security/editions/2023/en/0xa9-improper-inventory-management/
 [api10]: https://owasp.org/API-Security/editions/2023/en/0xaa-unsafe-consumption-of-apis/
-[apisec]: https://owasp.org/API-Security
+[apisec]: https://owasp.org/API-Security/
 [apisec-doc]: https://owasp.org/API-Security/editions/2023/en/0x00-header/
 [apisec-project]: https://owasp.org/www-project-api-security/
 [edit0907]: https://github.com/OWASP/DevGuide/blob/main/docs/en/07-training-education/07-api-top-ten.md

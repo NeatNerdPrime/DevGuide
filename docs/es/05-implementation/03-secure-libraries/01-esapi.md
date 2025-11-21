@@ -70,7 +70,7 @@ si hay algo que necesita cambiarse, [cree un issue][issue070301] o [edítelo en 
 [google-keyczar]: https://github.com/google/keyczar
 [google-tink]: https://github.com/tink-crypto/tink
 [issue070301]: https://github.com/OWASP/DevGuide/issues/new?labels=content&template=request.md&title=Update:%2005-implementation/03-secure-libraries/01-esapi
-[java-encoder]: https://owasp.org/www-project-java-encoder
-[java-sanitizer]: https://owasp.org/www-project-java-html-sanitizer
+[java-encoder]: https://owasp.org/www-project-java-encoder/
+[java-sanitizer]: https://owasp.org/www-project-java-html-sanitizer/
 [shiro]: https://shiro.apache.org/
 [spring]: https://docs.spring.io/spring-security/reference/features/index.html

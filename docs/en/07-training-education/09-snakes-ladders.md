@@ -68,7 +68,7 @@ then [submit an issue][issue0909] or [edit on GitHub][edit0909].
 [issue0909]: https://github.com/OWASP/DevGuide/issues/new?labels=content&template=request.md&title=Update:%2007-training-education/09-snakes-ladders
 [mobile10-2014]: https://owasp.org/www-project-mobile-top-10/2014-risks/
 [mobile10controls]: https://owasp.org/www-project-mobile-top-10/#div-controls
-[proactive10]: https://owasp.org/www-project-proactive-controls/
+[proactive10]: https://top10proactive.owasp.org/
 [snakes]: https://owasp.org/www-project-snakes-and-ladders/
 [snakeshowto]: https://owasp.org/www-project-snakes-and-ladders/#div-play
 [top102017]: https://owasp.org/www-project-top-ten/2017/
