@@ -52,6 +52,7 @@ Cheat
 Check
 CI
 CIA
+Citizen
 Clickjacking
 Clobbering
 clústeres
